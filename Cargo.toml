@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-hajb-exclusion-graph"
+version = "1.0.0"
+edition = "2021"
+description = "Hajb Hirman (Total Exclusion) & Hajb Nuqsan Graph Eliminator"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_hajb_exclusion_graph"
+path = "main.rs"
